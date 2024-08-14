@@ -9,8 +9,8 @@
 
 ### Instructions
 - Go to https://www.carta.com using your preferred language and IDE.
-- Navigate to Products > Venture Capitalists > SPVs.
-- Change the view to Institutional SPVs.
+- Navigate to Products > For Fund Management > SPVs.
+- Navigate to View pricing & plans.
 - Make sure the page loads 
 
 #### Optional
